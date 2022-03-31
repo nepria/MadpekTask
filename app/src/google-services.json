@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829505688994",
+    "firebase_url": "https://madpek-task-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madpek-task",
+    "storage_bucket": "madpek-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829505688994:android:5167e9b769085f654d0efb",
+        "android_client_info": {
+          "package_name": "com.example.madpektask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829505688994-2q2oc7h4i1ft3uqmg0urlono6qoav497.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXVfm_9rPW5R7WLqtqi_Eg-3IPl_MA7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829505688994-2q2oc7h4i1ft3uqmg0urlono6qoav497.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
